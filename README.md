@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JiuK7
-- 👀 I’m interested in computer science at uni
+- 👀 I’m studying computer science at uni
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on small projects for the experience
 - 📫 How to reach me - email: jiuk710@gmai.com
